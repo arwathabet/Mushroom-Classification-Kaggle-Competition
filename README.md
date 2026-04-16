@@ -32,8 +32,8 @@ Improved model performance and reduced potential overfitting
 - ~97% accuracy on Kaggle
 - Strong generalization and reliable performance in a competitive setting
 # Tech Stack
-Python
-Scikit-learn
-XGBoost
-Pandas & NumPy
-Matplotlib & Seaborn
+-Python
+-Scikit-learn
+-XGBoost
+-Pandas & NumPy
+-Matplotlib & Seaborn
