@@ -1,5 +1,4 @@
 # Mushroom-Classification-Kaggle-Competition
-Mushroom Classification – Machine Learning Project
 # Overview
 
 This project focuses on building a high-performance machine learning model to classify mushrooms as edible or poisonous using a large-scale dataset of over 3 million records. The goal is to develop a reliable and accurate classification system while handling real-world data challenges.
