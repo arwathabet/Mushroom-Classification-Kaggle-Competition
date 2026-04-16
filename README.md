@@ -28,9 +28,9 @@ Focused on achieving both accuracy and generalization
 Applied GridSearch for hyperparameter tuning
 Improved model performance and reduced potential overfitting
 # Results
-~99% accuracy on training and test data
-~97% accuracy on Kaggle
-Strong generalization and reliable performance in a competitive setting
+- ~99% accuracy on training and test data
+- ~97% accuracy on Kaggle
+- Strong generalization and reliable performance in a competitive setting
 # Tech Stack
 Python
 Scikit-learn
